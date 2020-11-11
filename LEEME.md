@@ -19,3 +19,5 @@ Requerimento de Prueba ("Pull Request")
 6. Verificar que los cambios mostrados en la comparación son los que se desean hacer.
 7. Pulsa "Create Pull Request".
 8. Dar nombre y descripción al requerimiento y pulsar "Create Pull Request".
+
+Este es el final del Tutorial.
